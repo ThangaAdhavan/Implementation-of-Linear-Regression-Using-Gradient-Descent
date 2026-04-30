@@ -7,9 +7,13 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Load the dataset and preprocess it using one-hot encoding and feature scaling.
+
 2.Separate input features (X) and target variable (y), then add a bias term.
+
 3.Initialize parameters (θ) and define the cost function (Mean Squared Error).
+
 4.Apply gradient descent to update θ iteratively and minimize the cost.
+
 5.Use the trained model to predict profit for new input data.
 
 ## Program:
