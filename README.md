@@ -143,7 +143,7 @@ print(f"\nPredicted Profit for the new startup: ₹{pred_original[0][0]:,.2f}")
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
-<img width="922" height="463" alt="585781145-ba9cb590-5313-4481-96b9-5494cddf8d99" src="https://github.com/user-attachments/assets/0c1b9ac6-1e60-4808-8916-a64172ea6f5c" />
+<img width="922" height="463" alt="image" src="https://github.com/user-attachments/assets/bfa29016-6b8c-4a9d-bfa9-d7b802d6ff98" />
 <img width="757" height="381" alt="585781269-4abcf7cd-7018-43b7-b466-0d7b8e71df06" src="https://github.com/user-attachments/assets/5ad36a52-fe5d-4b68-bf41-7ca3920099aa" />
 <img width="939" height="562" alt="585781376-ad79f0a1-745f-432e-9413-8d0fb94e21d5" src="https://github.com/user-attachments/assets/61dbf1d4-fd94-4d2c-af7d-195452bf2e59" />
 
