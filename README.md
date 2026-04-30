@@ -1,4 +1,4 @@
-## Ex 02 - Implementation of Simple Linear Regression Model for Predicting the Marks Scored
+## Ex 03 - Implementation of Simple Linear Regression Model Using Gradient descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
