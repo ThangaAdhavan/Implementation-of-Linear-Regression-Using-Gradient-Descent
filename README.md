@@ -1,6 +1,4 @@
-<img width="922" height="463" alt="585781145-ba9cb590-5313-4481-96b9-5494cddf8d99" src="https://github.com/user-attachments/assets/73ed8aa5-4704-4d31-8a92-4dfaf0e04d61" /># Implementation-of-Linear-Regression-Using-Gradient-Descent
-
-## AIM:
+ ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
 ## Equipments Required:
@@ -18,13 +16,8 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
-*/
-/*
-Program to implement the linear regression using gradient descent.
-Developed by: NIWASH K
-RegisterNumber: 212225230205 
+Developed by: THANGAADHAVAN S 
+RegisterNumber:  212225240168 / 25017124
 */
 
 import numpy as np
